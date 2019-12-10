@@ -15,7 +15,7 @@ const store = createStore(rootReducers, composeWithDevTools(
 
 
 function App() {
-  return ( 
+  return (  
     <Provider store={store}>
       <Home />
     </Provider>
