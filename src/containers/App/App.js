@@ -18,7 +18,7 @@ function App() {
   let one = 1;
   let one = 2;
   let one = 5;
-  let text;
+  let text2;
 
   return (
     <Provider store={store}>
