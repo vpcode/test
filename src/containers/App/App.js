@@ -18,6 +18,7 @@ function App() {
   let one = 1;
   let one = 3;
   let one = 4;
+  let text;
   
   return (
     <Provider store={store}>
